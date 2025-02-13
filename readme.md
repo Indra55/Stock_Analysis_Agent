@@ -1,7 +1,7 @@
 # QuantMosaic
 
 <div align="center">
-  <img src="./assets/hero-banner.png" alt="QuantMosaic Banner" width="1200px" />
+  <img src="./readme_images/banner.png" alt="QuantMosaic Banner" width="1200px" />
 </div>
 
 > 🚀 Analyze. Predict. Invest. With a little help from AI.
@@ -20,12 +20,12 @@
 ![alt text](readme_images/image-3.png)
 
 #### Analysis Dashboard
-![alt text](readme_images/image.png)
+![alt text](readme_images/image-4.png)
 
 ### Sample Reports
 
 #### Analysis
-![alt text](readme_images/image-1.png)
+![alt text](readme_images/image.png)
 ![alt text](readme_images/image-2.png)
 
 
