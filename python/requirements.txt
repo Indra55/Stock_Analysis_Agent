@@ -1,0 +1,7 @@
+alpha_vantage==3.0.0
+Flask==3.1.0
+Flask-Cors==5.0.0
+langchain==0.3.18
+crewai==0.100.1
+crewai-tools==0.33.0
+typing-extensions==4.12.2
