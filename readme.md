@@ -20,7 +20,7 @@
 ![alt text](readme_images/image-3.png)
 
 #### Analysis Dashboard
-![alt text](readme_images/image-4.png)
+![alt text](readme_images/image4.png)
 
 ### Sample Reports
 
