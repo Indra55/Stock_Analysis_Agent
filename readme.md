@@ -77,7 +77,7 @@ npm install
 python main.py
 
 # Start frontend (in a new terminal)
-npm start
+npm run dev
 ```
 
 ## System Architecture
