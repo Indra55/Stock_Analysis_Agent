@@ -46,7 +46,6 @@ The system uses six specialized AI agents to analyze stocks:
 - API Keys:
   - Google Gemini Pro
   - AlphaVantage
-  - CrewAI (optional)
 
 ## Quick Start
 
